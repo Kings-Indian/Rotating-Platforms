@@ -1,0 +1,11 @@
+Component,Quantity,Description,Link,Estimated Cost
+L298N H-Bridge Motor Driver,1,Dual H-bridge motor driver for bidirectional control,https://www.amazon.com/L298N-Stepper-Motor-Driver-Controller/dp/B014KMHSW6,$8.99
+DC Motors,2,12V DC motors for platform rotation,https://www.amazon.com/uxcell-DC12V-100RPM-Electric-Motor/dp/B00YFZJ3A0,$12.99
+Arduino Uno,1,Microcontroller for motor control,https://www.amazon.com/Arduino-Uno-R3-Microcontroller-A000066/dp/B008GRTSV6,$23.00
+12V Power Supply,1,Power source for motors and driver,https://www.amazon.com/ALITOVE-Adapter-Transformer-100V-240V-Converter/dp/B01MZAXY8O,$15.99
+Jumper Wires,1 set,For electrical connections,https://www.amazon.com/120pcs-Breadboard-Jumper-Wire-Set/dp/B01L5ULRUA,$7.99
+3D Printed Platform Parts,2,Custom designed rotating platforms,N/A (Custom Design),$5.00
+Mounting Hardware,1 set,Screws nuts and mounting brackets,https://www.amazon.com/Assorted-Machine-Screws-Nuts-Washers/dp/B01N5IB20Q,$9.99
+Breadboard,1,For prototyping electrical connections,https://www.amazon.com/Breadboard-Solderless-Prototype-Electronics-Project/dp/B01EV6LJ7G,$6.99
+Motor Mounting Brackets,2,To secure motors to the platform,https://www.amazon.com/Motor-Mount-Bracket-DC-Motor/dp/B07DGR98VQ,$8.99
+Wire Connectors,1 set,For secure electrical connections,https://www.amazon.com/Electrical-Connectors-Terminal-Block-Set/dp/B07CQ8J8XK,$12.99 
