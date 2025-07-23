@@ -5,7 +5,7 @@ description: "A mechanical rotating platform system with motor-driven control fo
 created_at: "2024-07-21"
 ---
 
-**Project Total Time: 8h**
+**Project Total Time: 9h**
 
 # July 21st, 2024: Initial Design and Electronics Sketch
 
@@ -59,6 +59,14 @@ final assembly:
 
 <img width="1190" height="996" alt="image" src="https://github.com/user-attachments/assets/62da032d-ffb0-4ff3-aa25-a08a1423b2d7" />
 
-Time spent: 3 hours
+**Total time spent: 3h**
 
+# July 23st, 2024:Battery Mount
+I realised I forgot about the battery mount so here it is: 
+
+<img width="1800" height="727" alt="image" src="https://github.com/user-attachments/assets/b4e3aec3-266e-4aae-a42f-39a20b083ffc" />
+Final Assembly:
+**Total time spent: 1h**
+
+<img width="1701" height="803" alt="image" src="https://github.com/user-attachments/assets/2f8dd2cf-d0aa-4642-818a-1c7ae78d55be" />
 
