@@ -61,41 +61,4 @@ final assembly:
 
 Time spent: 3 hours
 
-# July 23rd, 2024: BOM Finalization and Cost Optimization
-
-Finalized the Bill of Materials (BOM) to focus on essential electronics components only. This approach reduces project cost while maintaining core functionality.
-
-## Current BOM Components:
-1. **ESP-WROOM-32 Development Board** - $17.05 (with NJ tax)
-   - Main microcontroller with WiFi + Bluetooth capabilities
-   - Provides wireless control and future expansion possibilities
-
-2. **HiLetgo L298N Motor Driver Module** - $12.25 (with NJ tax)
-   - Motor driver for controlling DC motors
-   - Enables bidirectional motor control for platform rotation
-
-3. **GEILIENERGY 7.2V 3000mAh NiMH Battery Pack** - $15.77 (with NJ tax)
-   - Portable power source for motors
-   - Provides wireless operation capability
-
-## Cost Breakdown:
-- **Subtotal**: $42.27
-- **NJ Sales Tax (6.625%)**: $2.80
-- **Total Project Cost**: $45.07
-
-## Benefits of Simplified BOM:
-- **Cost Effective**: Reduced from $61.05 to $45.07 (26% savings)
-- **Focused Components**: Only essential electronics included
-- **Flexible Sourcing**: Additional components (motors, filament, hardware) can be sourced separately
-- **Budget Friendly**: More accessible for project funding
-
-## Next Steps:
-- Source 3D printing filament separately for platform components
-- Order electronic components from Amazon using provided links
-- Begin electrical assembly once components arrive
-- Test ESP32 WiFi/Bluetooth capabilities
-
-**Total time spent: 1h**
-
-**Project Total Time: 9h**
 
