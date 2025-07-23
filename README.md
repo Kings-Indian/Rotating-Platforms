@@ -26,9 +26,8 @@ I wanted to create a mechanical system that demonstrates controlled rotational m
 | 1 | ESP-WROOM-32 Development Board | 1 | [Amazon](https://www.amazon.com/gp/product/B08D5ZD528/?th=1) | $15.99 | $1.06 | $17.05 | $17.05 |
 | 2 | HiLetgo L298N Motor Driver Module | 1 | [Amazon](https://www.amazon.com/gp/product/B07BK1QL5T/) | $11.49 | $0.76 | $12.25 | $29.30 |
 | 3 | GEILIENERGY 7.2V 3000mAh NiMH Battery Pack | 1 | [Amazon](https://www.amazon.com/dp/B0C5WXWWH3/) | $14.79 | $0.98 | $15.77 | $45.07 |
-| 4 | OVERTURE PLA Filament 1kg | 1 | [Amazon](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGY2JP1/) | $14.99 | $0.99 | $15.98 | $61.05 |
 
-**Total Project Cost: $61.05**
+**Total Project Cost: $45.07**
 
 ## Project Status
 - ✅ 3D Design Complete
