@@ -1,8 +1,8 @@
 Component,Quantity,Description,Link,Estimated Cost
-L298N H-Bridge Motor Driver,1,Dual H-bridge motor driver for bidirectional control,https://www.amazon.com/L298N-Stepper-Motor-Driver-Controller/dp/B014KMHSW6,$8.99
+ESP-WROOM-32,1,Main microcontroller with WiFi + Bluetooth,https://www.amazon.com/gp/product/B08D5ZD528/?th=1,$15.99
+HiLetgo L298N Motor Driver Module,1,Motor driver for controlling DC motors,https://www.amazon.com/gp/product/B07BK1QL5T/,$11.49
+GEILIENERGY 7.2V 3000mAh NiMH Battery Pack,1,Main power source for motors,https://www.amazon.com/dp/B0C5WXWWH3/,$14.79
 DC Motors,2,12V DC motors for platform rotation,https://www.amazon.com/uxcell-DC12V-100RPM-Electric-Motor/dp/B00YFZJ3A0,$12.99
-Arduino Uno,1,Microcontroller for motor control,https://www.amazon.com/Arduino-Uno-R3-Microcontroller-A000066/dp/B008GRTSV6,$23.00
-12V Power Supply,1,Power source for motors and driver,https://www.amazon.com/ALITOVE-Adapter-Transformer-100V-240V-Converter/dp/B01MZAXY8O,$15.99
 Jumper Wires,1 set,For electrical connections,https://www.amazon.com/120pcs-Breadboard-Jumper-Wire-Set/dp/B01L5ULRUA,$7.99
 3D Printed Platform Parts,2,Custom designed rotating platforms,N/A (Custom Design),$5.00
 Mounting Hardware,1 set,Screws nuts and mounting brackets,https://www.amazon.com/Assorted-Machine-Screws-Nuts-Washers/dp/B01N5IB20Q,$9.99

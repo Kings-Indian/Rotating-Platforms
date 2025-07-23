@@ -2,19 +2,19 @@
 
 ## Electrical Connections
 
-### Arduino to L298N H-Bridge Connections
-- **Arduino Pin 2** → **L298N IN1** (Motor 1 Direction Control)
-- **Arduino Pin 3** → **L298N IN2** (Motor 1 Direction Control)
-- **Arduino Pin 4** → **L298N IN3** (Motor 2 Direction Control)
-- **Arduino Pin 5** → **L298N IN4** (Motor 2 Direction Control)
-- **Arduino Pin 9** → **L298N ENA** (Motor 1 Speed Control - PWM)
-- **Arduino Pin 10** → **L298N ENB** (Motor 2 Speed Control - PWM)
-- **Arduino GND** → **L298N GND** (Ground Connection)
-- **Arduino 5V** → **L298N +5V** (Logic Power)
+### ESP32 to L298N H-Bridge Connections
+- **ESP32 GPIO 2** → **L298N IN1** (Motor 1 Direction Control)
+- **ESP32 GPIO 4** → **L298N IN2** (Motor 1 Direction Control)
+- **ESP32 GPIO 16** → **L298N IN3** (Motor 2 Direction Control)
+- **ESP32 GPIO 17** → **L298N IN4** (Motor 2 Direction Control)
+- **ESP32 GPIO 18** → **L298N ENA** (Motor 1 Speed Control - PWM)
+- **ESP32 GPIO 19** → **L298N ENB** (Motor 2 Speed Control - PWM)
+- **ESP32 GND** → **L298N GND** (Ground Connection)
+- **ESP32 3.3V** → **L298N +5V** (Logic Power)
 
-### Power Supply Connections
-- **12V Power Supply +** → **L298N +12V** (Motor Power)
-- **12V Power Supply -** → **L298N GND** (Power Ground)
+### Battery Pack Connections
+- **7.2V NiMH Battery Pack +** → **L298N +12V** (Motor Power)
+- **7.2V NiMH Battery Pack -** → **L298N GND** (Power Ground)
 
 ### Motor Connections
 - **Motor 1 +** → **L298N OUT1**

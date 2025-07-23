@@ -1,15 +1,15 @@
 /*
  * Rotating Platforms Control
- * Arduino sketch for controlling two DC motors via L298N H-bridge
+ * ESP32 sketch for controlling two DC motors via L298N H-bridge
  */
 
 // Motor control pins
 const int motor1Pin1 = 2;  // IN1
-const int motor1Pin2 = 3;  // IN2
-const int motor2Pin1 = 4;  // IN3
-const int motor2Pin2 = 5;  // IN4
-const int enablePin1 = 9;  // ENA
-const int enablePin2 = 10; // ENB
+const int motor1Pin2 = 4;  // IN2
+const int motor2Pin1 = 16; // IN3
+const int motor2Pin2 = 17; // IN4
+const int enablePin1 = 18; // ENA
+const int enablePin2 = 19; // ENB
 
 // Speed settings
 const int motorSpeed = 200; // PWM value (0-255)
