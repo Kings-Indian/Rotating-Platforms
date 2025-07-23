@@ -1,72 +1,101 @@
 ---
 title: "Rotating Platforms Project"
-author: "Your name (name or slack username)"
+author: "Tanishq Goyal"
 description: "A mechanical rotating platform system with motor-driven control for educational and demonstration purposes"
 created_at: "2024-07-21"
 ---
+
+**Project Total Time: 8h**
 
 # July 21st, 2024: Initial Design and Electronics Sketch
 
 Started the project by sketching out the electronics layout and taking measurements for the rotating platforms system.
 
 ![Electronics Sketch](https://github.com/user-attachments/assets/e033ec09-83e9-459f-a2b3-d93511233366)
-*Initial sketch of the electronics layout*
+Initial sketch of the electronics layout
 
 ![Measurements and Scale](https://github.com/user-attachments/assets/fa75952e-ce2e-450e-aec3-98b3bccbb663)
-*Took measurements and extruded to scale. The L298N H-bridge has space for its components*
+took measurments and extruded to scale. The L298n H bridge has space for its these thingies
+<img width="758" height="673" alt="image" src="https://github.com/user-attachments/assets/574dd1d8-4a12-47d9-a32e-d0ec3c586b8a" />
 
-![Platform Design](https://github.com/user-attachments/assets/574dd1d8-4a12-47d9-a32e-d0ec3c586b8a)
-*Rotating platforms design*
+ <img width="797" height="805" alt="image" src="https://github.com/user-attachments/assets/7449706f-a6bb-4184-b8f3-33c48ebf2da2" />
 
-![Assembly View](https://github.com/user-attachments/assets/744dd1d8-4a12-47d9-a32e-d0ec3c586b8a)
-*Assembly view showing the complete system*
 
 ![Middle Holes Detail](https://github.com/user-attachments/assets/96f6fb3b-aa55-48dc-81d4-2fd0fcee37dc)
-*Detail of the middle mounting holes*
+middle mounting holes
 
 ![Final Electrical Component Mount](https://github.com/user-attachments/assets/c863f513-f2d2-4156-aeac-9895fa3361f1)
-*Final electrical component mounting design*
+Final electrical component mounting design
 
 ![Wheel Design with Cat](https://github.com/user-attachments/assets/5c2101e5-ee6c-42de-a9f2-8f6f916a292a)
-*For the wheels, I'll extrude a circle in the middle of one of them for the cat*
+For the wheels, I'll extrude a circle in the middle of one of them for the cat
 
-![Safety Consideration](https://github.com/user-attachments/assets/639dd1d8-18ba-4739-b017-b72c434da297)
-*Also if I don't it might spin off :(*
+<img width="643" height="433" alt="image" src="https://github.com/user-attachments/assets/639556d8-18ba-4739-b017-b72c434da297" />
+
+Also if I don't it might spin off :(
 
 **Total time spent: 5h**
 
 # July 22nd, 2024: Platform Assembly and Scaling
 
-Worked on the rotating platforms assembly and discovered a scaling issue that needed to be addressed.
 
-![Rotating Platforms](https://github.com/user-attachments/assets/8bf5a0f3-39f4-438a-85b1-ceb4d5e0e463)
-*Rotating platforms assembly*
+Rotating platforms:
+<img width="1062" height="739" alt="image" src="https://github.com/user-attachments/assets/8bf5a0f3-39f4-438a-85b1-ceb4d5e0e463" />
+Assembly:
+<img width="1404" height="928" alt="image" src="https://github.com/user-attachments/assets/a5fb50f3-7028-4a45-bc44-f274d637174f" />
 
-![Complete Assembly](https://github.com/user-attachments/assets/a1fb50f3-7028-4a45-bc44-f274d637174f)
-*Complete assembly view*
+My mistake was in the assumption that the cat is small enough for the plate. I must first scale it down.  
+I took the two furtheest points.
 
-My mistake was in the assumption that the cat is small enough for the plate. I must first scale it down. I took the two furthest points.
+<img width="1260" height="1131" alt="image" src="https://github.com/user-attachments/assets/e129c70c-1aaa-4ce5-83b6-1772885bc56f" />
+just to save room for error, ill round to 80. The diameter of my playform is 58.53149. The scale factor is 58.53149/80.
 
-![Scaling Calculation](https://github.com/user-attachments/assets/e129c70c-1aaa-4ce5-83b6-1772885bc56f)
-*Scaling calculation - just to save room for error, I'll round to 80. The diameter of my platform is 58.53149. The scale factor is 58.53149/80.*
+<img width="1665" height="736" alt="image" src="https://github.com/user-attachments/assets/dfdfbf0c-6a0c-4ae7-b12a-4e167f06bdb3" /> seems to fit perfectly :D 
+now, I made the middle peg based off this hole
+<img width="1414" height="803" alt="image" src="https://github.com/user-attachments/assets/4f325ce1-217a-4fac-8ce5-624cff7c6764" />
+final assembly:
+<img width="1453" height="948" alt="image" src="https://github.com/user-attachments/assets/d1a8cbaa-ec9d-4259-9123-a051423633df" />
+<img width="1187" height="819" alt="image" src="https://github.com/user-attachments/assets/5a858197-1478-4de2-a24e-6f3cbe98307a" />
 
-![Perfect Fit](https://github.com/user-attachments/assets/dfdfbf0c-6a0c-4ae7-b12a-4e167f06bdb3)
-*Seems to fit perfectly :D*
+<img width="1190" height="996" alt="image" src="https://github.com/user-attachments/assets/62da032d-ffb0-4ff3-aa25-a08a1423b2d7" />
 
-Now, I made the middle peg based off this hole:
+Time spent: 3 hours
 
-![Center Peg Design](https://github.com/user-attachments/assets/4f325ce1-217a-4fac-8ce5-624cff7c6764)
-*Center peg design based on the mounting hole*
+# July 23rd, 2024: BOM Finalization and Cost Optimization
 
-![Final Assembly](https://github.com/user-attachments/assets/d1a8cbaa-ec9d-4259-9123-a051423633df)
-*Final assembly view*
+Finalized the Bill of Materials (BOM) to focus on essential electronics components only. This approach reduces project cost while maintaining core functionality.
 
-![Assembly Detail 1](https://github.com/user-attachments/assets/5a858197-1478-4de2-a24e-6f3cbe98307a)
-*Assembly detail showing the complete system*
+## Current BOM Components:
+1. **ESP-WROOM-32 Development Board** - $17.05 (with NJ tax)
+   - Main microcontroller with WiFi + Bluetooth capabilities
+   - Provides wireless control and future expansion possibilities
 
-![Assembly Detail 2](https://github.com/user-attachments/assets/62da032d-ffb0-4ff3-aa25-a08a1423b2d7)
-*Another view of the final assembly*
+2. **HiLetgo L298N Motor Driver Module** - $12.25 (with NJ tax)
+   - Motor driver for controlling DC motors
+   - Enables bidirectional motor control for platform rotation
 
-**Total time spent: 3h**
+3. **GEILIENERGY 7.2V 3000mAh NiMH Battery Pack** - $15.77 (with NJ tax)
+   - Portable power source for motors
+   - Provides wireless operation capability
 
-**Project Total Time: 8h**
+## Cost Breakdown:
+- **Subtotal**: $42.27
+- **NJ Sales Tax (6.625%)**: $2.80
+- **Total Project Cost**: $45.07
+
+## Benefits of Simplified BOM:
+- **Cost Effective**: Reduced from $61.05 to $45.07 (26% savings)
+- **Focused Components**: Only essential electronics included
+- **Flexible Sourcing**: Additional components (motors, filament, hardware) can be sourced separately
+- **Budget Friendly**: More accessible for project funding
+
+## Next Steps:
+- Source 3D printing filament separately for platform components
+- Order electronic components from Amazon using provided links
+- Begin electrical assembly once components arrive
+- Test ESP32 WiFi/Bluetooth capabilities
+
+**Total time spent: 1h**
+
+**Project Total Time: 9h**
+

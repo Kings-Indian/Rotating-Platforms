@@ -1,10 +1,10 @@
 # Rotating Platforms Project
 
 ## Project Description
-This project creates a mechanical rotating platform system designed to provide funni rotational movement. The system consists of multiple platforms that can rotate independently or in coordination, powered by motor-driven mechanisms with control through an L298N H-bridge motor driver.
+This project creates a mechanical rotating platform system designed to provide controlled rotational movement. The system consists of multiple platforms that can rotate independently or in coordination, powered by motor-driven mechanisms with precise control through an L298N H-bridge motor driver and ESP32 microcontroller. The system is powered by a portable 7.2V NiMH battery pack for wireless operation.
 
 ## Why I Made This Project
-I wanted to create a mechanical system that demonstrates controlled rotational movement with multiple platforms. This allows me to rotate funni oiia oiia cat and anything else I want, including 2 oiia oiia cats. 
+I wanted to create a mechanical system that demonstrates controlled rotational movement with multiple platforms. This project serves as both a learning experience in mechanical design and motor control, as well as a foundation for more complex rotating systems. The ability to control multiple rotating platforms opens up possibilities for various applications in robotics, automation, and educational demonstrations. 
 ## Project Components
 
 ### 3D Model Screenshots
@@ -14,10 +14,11 @@ I wanted to create a mechanical system that demonstrates controlled rotational m
 ### Technical Specifications
 
 - **Platform Diameter**: 58.53mm (scaled from 80mm design)
-- **Material**: 3D printed components
+- **Material**: 3D printed components (filament to be sourced separately)
 - **Control System**: ESP32 microcontroller with L298N H-bridge motor driver
 - **Power**: 7.2V NiMH battery pack (3000mAh)
 - **Connectivity**: WiFi and Bluetooth capabilities
+- **Total Cost**: $45.07 (electronics only, with NJ tax)
 
 ## Bill of Materials (BOM)
 
@@ -44,13 +45,14 @@ I wanted to create a mechanical system that demonstrates controlled rotational m
 - PCB design files (if applicable)
 
 ## Getting Started
-1. Review the BOM.csv file for component sourcing
-2. 3D print the platform components
-3. Assemble the mechanical system
-4. Wire the electrical components according to wiring_diagram.md
-5. Upload control code to ESP32
-6. Test and calibrate the system
-7. Charge the NiMH battery pack before first use
+1. Review the BOM.csv file for component sourcing (electronics only)
+2. Source 3D printing filament separately for platform components
+3. 3D print the platform components
+4. Assemble the mechanical system
+5. Wire the electrical components according to wiring_diagram.md
+6. Upload control code to ESP32
+7. Test and calibrate the system
+8. Charge the NiMH battery pack before first use
 
 ## License
 This project is licensed under the terms specified in the LICENSE file. 

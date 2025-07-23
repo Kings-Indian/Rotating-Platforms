@@ -1,5 +1,10 @@
 # Wiring Diagram for Rotating Platforms Project
 
+## Current BOM Components
+- ESP-WROOM-32 Development Board
+- HiLetgo L298N Motor Driver Module  
+- GEILIENERGY 7.2V 3000mAh NiMH Battery Pack
+
 ## Electrical Connections
 
 ### ESP32 to L298N H-Bridge Connections
@@ -24,9 +29,17 @@
 
 ## Safety Notes
 - Always connect ground connections first
-- Ensure power supply is rated for at least 2A for two motors
+- Ensure battery is fully charged before first use
 - Use appropriate wire gauge for motor connections
 - Double-check all connections before powering on
+- NiMH batteries should be charged with appropriate charger
+
+## Additional Components Needed (Not in BOM)
+- DC Motors (2x) for platform rotation
+- Jumper wires for connections
+- Breadboard for prototyping
+- Mounting hardware (screws, nuts, brackets)
+- 3D printing filament for platform components
 
 ## Testing Procedure
 1. Connect Arduino to computer and upload test code
