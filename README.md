@@ -26,9 +26,9 @@ I wanted to create a mechanical system that demonstrates controlled rotational m
 | 1 | ESP-WROOM-32 Development Board | 1 | Main microcontroller with WiFi + Bluetooth | [Amazon](https://www.amazon.com/gp/product/B08D5ZD528/?th=1) | $15.99 |
 | 2 | HiLetgo L298N Motor Driver Module | 1 | Motor driver for controlling DC motors | [Amazon](https://www.amazon.com/gp/product/B07BK1QL5T/) | $11.49 |
 | 3 | GEILIENERGY 7.2V 3000mAh NiMH Battery Pack | 1 | Main power source for motors | [Amazon](https://www.amazon.com/dp/B0C5WXWWH3/) | $14.79 |
-| 4 | Polymaker PETG Filament 1kg | 1 | Clear PETG filament for 3D printing platforms | [Amazon](https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1) | $22.99 |
+| 4 | OVERTURE PLA Filament 1kg | 1 | PLA filament for 3D printing platforms | [Amazon](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGY2JP1/) | $14.99 |
 
-**Total Project Cost: $65.26**
+**Total Project Cost: $57.26**
 
 ## Project Status
 - ✅ 3D Design Complete
