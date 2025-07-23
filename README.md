@@ -20,3 +20,4 @@ Complete assembly showing the rotating platform system
 | 3 | GEILIENERGY 7.2V 3000mAh NiMH Battery Pack | 1 | [Amazon](https://www.amazon.com/dp/B0C5WXWWH3/) | $14.79 | $0.98 | $15.77 | $45.07 |
 
 **Total Project Cost: $45.07**
+<img width="1210" height="949" alt="image" src="https://github.com/user-attachments/assets/f7ed2357-6863-43d6-b47a-4db8e97a50a2" />
