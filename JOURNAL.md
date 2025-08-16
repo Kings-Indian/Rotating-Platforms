@@ -70,3 +70,9 @@ Final Assembly:
 
 <img width="1701" height="803" alt="image" src="https://github.com/user-attachments/assets/2f8dd2cf-d0aa-4642-818a-1c7ae78d55be" />
 
+# August 1st: Assembly
+This was by far my easiest assembly; I just had to solder 2 wires and assemble everything
+<img width="468" height="933" alt="image" src="https://github.com/user-attachments/assets/2aba2475-a140-424f-a6fb-ae51ed4a98e3" />
+
+
+**Total Time Spent: 1h**
