@@ -25,7 +25,14 @@ Complete assembly showing the rotating platform system
 
 **Total Project Cost: $45.07**
 
-<img width="468" height="933" alt="image" src="https://github.com/user-attachments/assets/624aaf54-9746-4662-8417-2ac1ba76107a" />
+<img width="641" height="851" alt="image" src="https://github.com/user-attachments/assets/ad2e3dd5-2acf-444c-98e1-e6877cd98c31" />
+
+<img width="1143" height="850" alt="image" src="https://github.com/user-attachments/assets/c9f3b54a-59a0-41ee-8bc3-3549eee96feb" />
+
+<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/989726e8-fcb4-4576-a83c-632da1c0cfa4" />
+
+<img width="624" height="746" alt="image" src="https://github.com/user-attachments/assets/4ef0686f-30a2-4fac-afe5-8c4e1ec9d657" />
+
 
 Youtube: [Link](https://youtube.com/shorts/YKsWQObnuwQ?feature=share)
 
