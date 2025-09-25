@@ -72,7 +72,6 @@ Final Assembly:
 
 # August 1st: Assembly
 This was by far my easiest assembly; I just had to solder 2 wires and assemble everything
-src="<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/ff2187e4-e564-41a2-83b8-30b258785029" />
 
 
 First I printed all the parts. I ended up printing the cat a few times to get the scale perfect, but everything else was flawless. The total print time was around 3-5 hours.
@@ -85,6 +84,12 @@ I then put the l298N motor driver and the esp32 into their selective places. I c
 
 I then added the arduino wires to connect the ESP32 to the L298N Motor Driver.
 
+<img width="1701" height="803" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/65b53858692e20f75d842e5e2d6c4075935db036_img_9206.jpg" />
+
+
+
 Everything was built! I just added the platforms to the motor tips, added the spinning cat, charged the battery and plugged it in, and the build was good to go. I quickly recorded the demo and left to the airport :runner: 
+
+src="<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/ff2187e4-e564-41a2-83b8-30b258785029" />
 
 **Total Time Spent: 1h**
