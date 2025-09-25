@@ -84,7 +84,7 @@ I then put the l298N motor driver and the esp32 into their selective places. I c
 
 I then added the arduino wires to connect the ESP32 to the L298N Motor Driver.
 
-<img width="1701" height="803" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/65b53858692e20f75d842e5e2d6c4075935db036_img_9206.jpg" />
+<img width="1006" height="1265" alt="image" src="https://github.com/user-attachments/assets/f57d16a8-151d-4c56-bbdf-faa015f7923b" />
 
 
 
