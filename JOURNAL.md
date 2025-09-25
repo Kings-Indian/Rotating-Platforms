@@ -72,8 +72,8 @@ Final Assembly:
 
 # August 1st: Assembly
 This was by far my easiest assembly; I just had to solder 2 wires and assemble everything
-<img width="468" height="933" alt="image" src="<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/ff2187e4-e564-41a2-83b8-30b258785029" />
-" />
+src="<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/ff2187e4-e564-41a2-83b8-30b258785029" />
+
 
 First I printed all the parts. I ended up printing the cat a few times to get the scale perfect, but everything else was flawless. The total print time was around 3-5 hours.
 
