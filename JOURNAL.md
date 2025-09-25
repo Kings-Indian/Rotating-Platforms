@@ -90,6 +90,6 @@ I then added the arduino wires to connect the ESP32 to the L298N Motor Driver.
 
 Everything was built! I just added the platforms to the motor tips, added the spinning cat, charged the battery and plugged it in, and the build was good to go. I quickly recorded the demo and left to the airport :runner: 
 
-src="<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/ff2187e4-e564-41a2-83b8-30b258785029" />
+<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/ff2187e4-e564-41a2-83b8-30b258785029" />
 
 **Total Time Spent: 1h**
